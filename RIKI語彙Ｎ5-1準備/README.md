@@ -43,6 +43,7 @@ Nếu bạn thấy nội dung này hay, hãy ủng hộ Riki Nihongo Center bằ
 
 ---
 **Biên soạn:** Khải.
+
 *Chúc bạn học tập thành công và đạt aim JLPT nha!*
 
 ---
