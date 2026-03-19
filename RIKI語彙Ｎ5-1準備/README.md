@@ -31,7 +31,7 @@ Bộ sưu tập bao gồm các file Anki (`.apkg`) tương ứng:
 - 🟢 **N4:** Từ vựng sơ cấp nâng cao (File: `N4.apkg`).
 - 🟢 **N5:** Từ vựng cơ bản dành cho người mới bắt đầu (File: `N5.apkg`).
 
-## 🛠 Cách sử dụng
+## Cách sử dụng
 
 1.  **Tải Anki:** Cài đặt phần mềm [Anki](https://apps.ankiweb.net/) trên Máy tính (Windows/Mac) hoặc Điện thoại (AnkiDroid/AnkiMobile).
 2.  **Tải file Deck:** Chọn và tải các file có đuôi `.apkg` từ danh sách phía trên.
