@@ -1,56 +1,48 @@
+# 📚 Japanese Vocabulary SRS Notes (N5 to N1) - Optimized for Anki
 
-
-# 📚 リキ語彙デック - N5 to N1
-
-Kho lưu trữ dữ liệu từ vựng tiếng Nhật đầy đủ từ cấp độ **N5 đến N1**, được biên soạn dựa trên chương trình giảng dạy của **Riki Nihongo Center**. Dữ liệu này bao gồm không chỉ từ nghĩa mà còn cả sắc thái sử dụng và ví dụ thực tế.
+Đây là bộ sưu tập các thẻ học (Flashcards) từ vựng tiếng Nhật từ cấp độ **N5 đến N1** do mình tự tổng hợp và biên soạn trong quá trình theo học tại **Riki Nihongo Center**. Bộ Deck này được thiết kế để tối ưu hóa việc ghi nhớ thông qua phương pháp Spaced Repetition.
 
 ## Tâm sự và Cam kết
 
-*   **Về mục đích chia sẻ:** Mình chia sẻ tài liệu này hoàn toàn **miễn phí** và không nhận bất kỳ khoản lợi nhuận nào từ việc này. 
-*   **Về nguồn gốc tài liệu:** Bản thân mình từng là học viên tại **RIKI Nihongo Center** và đã trả tiền học phí đầy đủ để có được những tài liệu này. Việc mình biên soạn lại dưới dạng Deck Anki chỉ với một mong muốn duy nhất: Giúp mọi người trong quá trình học tiếng Nhật trở nên thành công và dễ dàng hơn.
-*   **Gửi phía RIKI:** Mình thực hiện bộ deck này dựa trên sự trân trọng kiến thức mà trung tâm đã truyền tải, hy vọng RIKI sẽ "nhẹ tay" và ủng hộ tinh thần học tập của mình (xin RIKI đừng đánh em nha hihi).
-*   **Về công cụ Anki:** Với kinh nghiệm là một người đã trải qua nhiều lần thi chứng chỉ ngoại ngữ, mình là một người sử dụng Anki rất nhiều. Mình tin rằng đây là cách hiệu quả nhất để mọi người có thể học ngoại ngữ một cách bền vững và hy vọng qua bộ deck này, các bạn sẽ yêu thích và sử dụng Anki nhiều hơn.
-*   **Lưu ý nhỏ:** Mình cũng không nhận được bất kỳ sự tài trợ (sponsor) nào từ phía Anki đâu nha, đơn giản mình chỉ là một người dùng yêu thích công cụ này thôi!
+*   **Về mục đích:** Mình chia sẻ bộ tài liệu này hoàn toàn phi lợi nhuận. Đây là kết quả của quá trình học tập, ghi chép và hệ thống hóa lại kiến thức cá nhân của mình trên công cụ Anki.
+*   **Về bản quyền và Nguồn gốc:** Toàn bộ khung nội dung dựa trên chương trình giảng dạy của **Riki Nihongo Center**. Mình là một cựu học viên đã hoàn thành các khóa học trả phí tại Riki và thực hiện bộ deck này để phục vụ mục đích ôn tập cá nhân hiệu quả hơn. 
+*   **Gửi phía Riki Nihongo Center:** Mình thực hiện bộ Deck này với lòng trân trọng kiến thức và phương pháp giảng dạy của trung tâm. Mình luôn khuyến khích bạn bè và cộng đồng đăng ký các khóa học chính thức tại Riki để được nghe giảng giải chi tiết, xem video và nhận sự hỗ trợ tốt nhất từ các giáo viên. Bộ Deck này chỉ là **công cụ hỗ trợ ôn tập thêm**, không thể thay thế cho giáo trình và bài giảng trực tiếp của Riki.
+*   **Về công cụ Anki:** Là một người đã trải qua nhiều kỳ thi chứng chỉ ngoại ngữ, mình nhận thấy Anki là "vũ khí" cực mạnh. Mình chia sẻ bộ thẻ này để giúp các bạn tiếp cận với phương pháp học tập hiện đại này dễ dàng hơn. (Mình không có mối quan hệ quảng cáo hay tài trợ nào với Anki).
 
-## Highlights
+## Tại sao nên sử dụng bộ Decks này?
 
-Khác với các bộ từ vựng thông thường, bộ dữ liệu này tập trung vào:
-- **Giải thích chi tiết:** Nghĩa tiếng Việt sát với thực tế và ngữ cảnh sử dụng.
-- **Phân biệt từ gần nghĩa (使い分け):** Giải thích rõ sự khác nhau giữa các từ có nghĩa tương đương để tránh nhầm lẫn khi làm bài thi và giao tiếp.
-- **Kiến thức mở rộng (知識拡張):** Cung cấp các từ liên quan, từ trái nghĩa và các cụm từ đi kèm (collocations).
-- **Ví dụ minh họa:** Mỗi từ đều đi kèm ví dụ cụ thể giúp người học ghi nhớ lâu hơn.
-- **Tối ưu hiển thị:** Hệ thống thẻ đã được định dạng sẵn với HTML/CSS để hiển thị trực quan nhất trên cả máy tính và điện thoại.
+Khác với các bộ từ vựng Anki có sẵn trên mạng, bộ thẻ này được trau chuốt về nội dung ghi chú:
+- **Giải thích ngữ cảnh:** Nghĩa tiếng Việt được viết lại sao cho sát với thực tế sử dụng.
+- **Phân biệt từ gần nghĩa (使い分け):** Có các ghi chú nhỏ để bạn không bị nhầm lẫn giữa các từ "na ná" nhau.
+- **Kiến thức mở rộng (知識拡張):** Bổ sung từ trái nghĩa, từ liên quan giúp học 1 biết 10.
+- **Ví dụ minh họa:** Hỗ trợ việc nhớ từ thông qua ngữ cảnh câu cụ thể.
 
 ## Danh sách các cấp độ
 
-Bộ sưu tập bao gồm các file Anki (`.apkg`) tương ứng:
+Bạn có thể tải các file `.apkg` tương ứng:
 
-- 🟢 **N1:** Từ vựng nâng cao, thuật ngữ chuyên môn và sắc thái tinh tế (File: `N1Junbi.apkg`).
-- 🟢 **N2:** Từ vựng trung - cao cấp dùng trong đời sống và công việc (File: `N2Junbi.apkg`).
-- 🟢 **N3:** Nền tảng trung cấp cho việc đọc hiểu và nghe hiểu (File: `N3Junbi.apkg`).
+- 🟢 **N1:** Từ vựng nâng cao & sắc thái tinh tế (File: `N1Junbi.apkg`).
+- 🟢 **N2:** Từ vựng trung - cao cấp cho đời sống & công việc (File: `N2Junbi.apkg`).
+- 🟢 **N3:** Nền tảng trung cấp quan trọng (File: `N3Junbi.apkg`).
 - 🟢 **N4:** Từ vựng sơ cấp nâng cao (File: `N4.apkg`).
-- 🟢 **N5:** Từ vựng cơ bản dành cho người mới bắt đầu (File: `N5.apkg`).
+- 🟢 **N5:** Từ vựng cơ bản (File: `N5.apkg`).
 
 ## Cách sử dụng
 
-1.  **Tải Anki:** Cài đặt phần mềm [Anki](https://apps.ankiweb.net/) trên Máy tính (Windows/Mac) hoặc Điện thoại (AnkiDroid/AnkiMobile).
-2.  **Tải file Deck:** Chọn và tải các file có đuôi `.apkg` từ danh sách phía trên.
-3.  **Import dữ liệu:** 
-    *   Mở ứng dụng Anki.
-    *   Chọn `File` -> `Import`.
-    *   Chọn file `.apkg` bạn vừa tải về.
-4.  **Bắt đầu học:** Thẻ sẽ tự động hiển thị theo lộ trình ghi nhớ lặp lại ngắt quãng (SRS).
+1.  Cài đặt phần mềm [Anki](https://apps.ankiweb.net/).
+2.  Tải file `.apkg` cấp độ bạn muốn học.
+3.  Mở Anki, chọn `File` -> `Import` và chọn file vừa tải.
+4.  Để đạt hiệu quả cao nhất, hãy kết hợp việc học thẻ này với việc xem lại bài giảng gốc từ Riki.
 
-## Viết nhỏ ^^
-- **Đánh giá cá nhân:** 
-    - Theo mình tự nhận xét thì các file **N5 và N4 khá "nhạt"** bởi vì mỗi từ chủ yếu chỉ có nghĩa (N4 có thêm ví dụ). 
-    - Các Deck chỉ thực sự **thú vị và đa dạng hơn khi ở các level N3, N2, N1**. 
-    - Nếu bạn đang ở trình độ N5/N4 thì vẫn có thể sử dụng nếu muốn theo sát giáo trình của RIKI. Tuy nhiên, theo mình thì có nhiều nguồn khác học từ vựng N5/N4 tốt hơn ở trên mạng hihi.
+## Đánh giá cá nhân từ người soạn
+- Bộ thẻ **N3, N2, N1** là những phần mình dành nhiều tâm huyết nhất, nội dung phong phú và đa dạng.
+- Riêng bộ **N5 và N4** nội dung sẽ đơn giản hơn (chủ yếu là nghĩa và ví dụ), phù hợp cho các bạn đang theo học giáo trình Riki muốn có công cụ ôn bài nhanh.
 
-## Credits
-
-- **Nguồn nội dung:** Dựa trên giáo trình của **Riki Nihongo Center**.
-- **Biên soạn Anki Deck:** Khải.
+## Hỗ trợ tác giả gốc
+Nếu bạn thấy nội dung này hay, hãy ủng hộ Riki Nihongo Center bằng cách đăng ký các khóa học chính chủ tại: [riki.edu.vn]([https://riki.edu.vn/])
 
 ---
-*Chúc bạn học tốt và chinh phục được kỳ thi JLPT!*
+**Biên soạn:** Khải.
+*Chúc bạn học tập thành công và đạt aim JLPT nha!*
+
+---
