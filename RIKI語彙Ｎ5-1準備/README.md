@@ -4,7 +4,7 @@
 
 Kho lưu trữ dữ liệu từ vựng tiếng Nhật đầy đủ từ cấp độ **N5 đến N1**, được biên soạn dựa trên chương trình giảng dạy của **Riki Nihongo Center**. Dữ liệu này bao gồm không chỉ từ nghĩa mà còn cả sắc thái sử dụng và ví dụ thực tế.
 
-## Tâm sự và Cam kết (Disclaimer)
+## Tâm sự và Cam kết
 
 *   **Về mục đích chia sẻ:** Mình chia sẻ tài liệu này hoàn toàn **miễn phí** và không nhận bất kỳ khoản lợi nhuận nào từ việc này. 
 *   **Về nguồn gốc tài liệu:** Bản thân mình từng là học viên tại **RIKI Nihongo Center** và đã trả tiền học phí đầy đủ để có được những tài liệu này. Việc mình biên soạn lại dưới dạng Deck Anki chỉ với một mong muốn duy nhất: Giúp mọi người trong quá trình học tiếng Nhật trở nên thành công và dễ dàng hơn.
