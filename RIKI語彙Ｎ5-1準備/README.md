@@ -27,6 +27,25 @@ Bạn có thể tải các file `.apkg` tương ứng:
 - 🟢 **N4:** Từ vựng sơ cấp nâng cao (File: `N4.apkg`).
 - 🟢 **N5:** Từ vựng cơ bản (File: `N5.apkg`).
 
+## Một số chú thích được sử dụng trong các thẻ:
+- 連 Các hình thái sử dụng 
+- 合 Từ ghép (kết hợp với từ khác để thành một từ mới) 
+- 対 Từ trái nghĩa 
+- 類 Từ đồng nghĩa 
+- 関 Từ có liên quan 
+- 名 Danh từ 
+- 動 Động từ 
+- 自 Tự động từ 
+- 他 Tha động từ 
+- •例 Ví dụ 
+- ＞＜ Biểu hiện trái nghĩa 
+- ≒/＝ Biểu hiện đồng nghĩa, tương đương 
+- ○ Được sử dụng 
+- △ Ít được sử dụng 
+- ✕ Không được sử dụng 
+- ※ Các lưu ý khác về từ đó
+
+
 ## Cách sử dụng
 
 1.  Cài đặt phần mềm [Anki](https://apps.ankiweb.net/).
