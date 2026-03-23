@@ -53,6 +53,7 @@ Bạn có thể tải các file `.apkg` tương ứng:
 3.  Mở Anki, chọn `File` -> `Import` và chọn file vừa tải.
 4.  Hãy nhớ tắt "Import any learning progress"
 <img width="462" height="389" alt="image" src="https://github.com/user-attachments/assets/1045b017-de59-4097-9dbe-38ce201fe7b0" />
+
 5.  Để đạt hiệu quả cao nhất, hãy kết hợp việc học thẻ này với việc xem lại bài giảng gốc từ Riki.
 
 ## Đánh giá cá nhân từ người soạn
