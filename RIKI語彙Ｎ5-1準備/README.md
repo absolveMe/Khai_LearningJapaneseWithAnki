@@ -51,8 +51,8 @@ Bạn có thể tải các file `.apkg` tương ứng:
 1.  Cài đặt phần mềm [Anki](https://apps.ankiweb.net/).
 2.  Tải file `.apkg` cấp độ bạn muốn học.
 3.  Mở Anki, chọn `File` -> `Import` và chọn file vừa tải.
-4.  Hãy nhớ tắt "Import any learning progress"
-<img width="462" height="389" alt="image" src="https://github.com/user-attachments/assets/1045b017-de59-4097-9dbe-38ce201fe7b0" />
+4.  Chỉnh Settings theo như hình ảnh:
+<img width="964" height="402" alt="image" src="https://github.com/user-attachments/assets/38e36030-4ef7-48f2-b822-725a216bd194" />
 
 5.  Để đạt hiệu quả cao nhất, hãy kết hợp việc học thẻ này với việc xem lại bài giảng gốc từ Riki.
 
