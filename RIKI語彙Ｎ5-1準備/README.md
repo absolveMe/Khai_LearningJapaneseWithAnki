@@ -60,6 +60,8 @@ Bạn có thể tải các file `.apkg` tương ứng:
 ## Hỗ trợ tác giả gốc
 Nếu bạn thấy nội dung này hay, hãy ủng hộ Riki Nihongo Center bằng cách đăng ký các khóa học chính chủ tại: [riki.edu.vn]([https://riki.edu.vn/])
 
+## Lỗi/ Rủi Ro
+- Nếu trong quá trình học bạn phát hiện được lỗi sai/ lỗi đánh máy về nghĩa, ví dụ, hoặc các phần khác, hãy gửi một Issue mới tại đây. Mình sẽ cố gắng sửa và update sớm nhất có thể: https://github.com/absolveMe/Machine-Learning-Notes/issues
 ---
 **Biên soạn:** Khải.
 
